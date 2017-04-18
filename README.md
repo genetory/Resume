@@ -1,2 +1,4 @@
 # GTAlertController
-Thi
+This is a custom UIAlertController
+
+Whatever
