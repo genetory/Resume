@@ -6,7 +6,6 @@
 <img src="/Image/Genetory.png" width="300" height="300">
 
 - Genetory 
-- 문지윤
 - Email: imgenetory@gmail.com
 
 ### 경력
