@@ -10,7 +10,7 @@
 
 안녕하세요, 디자이너 출신 iOS 개발자 제네토리 입니다.
 
-주 언어는 Swift이나 Objective-C를 사용합니다.
+주 언어는 Swift, SwiftUI, Objective-C를 사용합니다.
 
 다른 프론트 쪽으로는 Kotlin, Java 를 이용한 안드로이드 앱 개발 경험이 있고,
 
