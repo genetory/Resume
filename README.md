@@ -1,14 +1,14 @@
 ### Genetory Resume (제네토리 이력서)
 
 
-### 소개
+#### 소개
 
 <img src="/Image/Genetory.png" width="300" height="300">
 
 - Genetory 
 - Email: imgenetory@gmail.com
 
-### 경력
+#### 경력
 * [OP.GG](https://op.gg/)
   - Mobile Cell Leader & Global Community Cell Leader (겸업중)
   - iOS Developer
@@ -38,20 +38,22 @@
   - GUI Designer
   - 기간: 2011. 03. - 2014. 07.
 
-### 경력
+#### 경력
 
 
-### 보유 기술
-## Swift
-## SwiftUI
-## Objective-C
-## PHP
-## Photoshop
-## Illustrator
+#### 보유 기술
+
+# Swift
+# Objective-C
+# Java
+# Kotlin
+# PHP
+# Photoshop
+# Illustrator
 
 
-### 활동
+#### 활동
 
 
-### 경력
+#### 경력
 
