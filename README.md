@@ -14,8 +14,7 @@
   - iOS Developer
   - 기간: 2017. 11. ~ 재직중
   
-* General Factory
-  - 창업
+* General Factory (창업)
   - iOS Developer
   - 기간: 2016. 04. - 2017. 11.
   
