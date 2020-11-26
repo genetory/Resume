@@ -10,7 +10,7 @@
 
 ### 경력
 * [OP.GG](https://op.gg/)
-  - Mobile Cell Leader & Global Community Cell Leader (겸업)
+  - Mobile Cell Leader & Global Community Cell Leader (겸업중)
   - iOS Developer
   - 기간 2017. 11. ~ 재직중
   
