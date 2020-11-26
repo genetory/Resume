@@ -28,7 +28,7 @@
 
 * 프리랜서 (미국)
   - iOS Developer & GUI Designer 
-  - 2014. 03. - 2015. 06.
+  - 기간: 2014. 03. - 2015. 06.
   
 * 그린 몬스터
   - iOS Developer
@@ -42,6 +42,12 @@
 
 
 ### 보유 기술
+## Swift
+## SwiftUI
+## Objective-C
+## PHP
+## Photoshop
+## Illustrator
 
 
 ### 활동
