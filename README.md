@@ -53,6 +53,9 @@
 
 
 ## 활동
+- [Let us: Go! 2017 Summer 세미나 발표](https://iosdevkor.github.io/let_us_go_2017_summer/)
+- Let us: Go! 2019 Summer 세미나 발표
+- [Let us: Go! 2020 Summer 패널 토크](https://let-us-go-2020-summer.vercel.app/)
 
 
 ## 기타
