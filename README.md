@@ -8,6 +8,18 @@
 - Genetory 
 - Email: imgenetory@gmail.com
 
+안녕하세요, 디자이너 출신 iOS 개발자 제네토리 입니다.
+
+주 언어는 Swift이나 Objective-C를 사용합니다.
+다른 프론트 쪽으로는 Kotlin, Java 를 이용한 안드로이드 앱 개발 경험이 있고,
+백엔드 쪽으로는 PHP, Node.js를 사용하여 개발한 경험이 있습니다.
+
+언제나 서비스에 대한 유저의 평가를 1순위로 생각하는 개발자 입니다.
+비즈니스 로직을 구현하는 데에는 어려움이 없고 팀원들과의 원활한 소통과 협업을 항상 생각합니다.
+디자이너 출신이다 보니 UX/UI 적인 면에도 강한 개발자입니다.
+
+최근에는 기획도 하는 개발자가 되었습니다....
+
 ## 경력
 * [OP.GG](https://op.gg/)
   - Mobile Cell Leader & Global Community Cell Leader (겸업중)
