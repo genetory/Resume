@@ -28,12 +28,12 @@
 몇 년 전부터는 PM 하는 개발자가 되었습니다....
 
 ## 경력
-* [GoodGang Labs] (https://goodganglabs.com)
+* [GoodGang Labs](https://goodganglabs.com)
   - Front Team Lead
   - PM, iOS Developer, Python Developer
   - 기간: 2022. 12. - 재직중
   
-* [Thingsflow] (https://thingsflow.com)
+* [Thingsflow](https://thingsflow.com)
   - StoryPlay Team Lead
   - PM, iOS Developer
   - 기간: 2022. 03. - 2022. 12.
