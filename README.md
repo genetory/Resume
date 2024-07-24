@@ -21,6 +21,8 @@
 
 또한 각종 동아리, 패널, 컨퍼런스 참여 등을 자주 합니다.
 
+개발도 직접하지만 PM, UX, Growth 등 다양한 분야를 커버할 수 있습니다.
+
 ## 경력
 * [GoodGang Labs](https://goodganglabs.com)
   - Front Team Lead
