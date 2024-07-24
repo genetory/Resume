@@ -1,10 +1,11 @@
-# Genetory Resume (제네토리 이력서)
+# Genetory Resume
 
 
 ## 소개
 
 <img src="/Image/Genetory.png" width="300" height="300">
 
+- 문지윤
 - Genetory 
 - Email: imgenetory@gmail.com
 
@@ -27,20 +28,30 @@
 몇 년 전부터는 PM 하는 개발자가 되었습니다....
 
 ## 경력
-* [OP.GG](https://op.gg/)
-  - Mobile Cell Leader & Global Community Cell Leader (겸업중)
+* [GoodGang Labs] (https://goodganglabs.com)
+  - Front Team Lead
+  - PM, iOS Developer, Python Developer
+  - 기간: 2022. 12. - 재직중
+  
+* [Thingsflow] (https://thingsflow.com)
+  - StoryPlay Team Lead
+  - PM, iOS Developer
+  - 기간: 2022. 03. - 2022. 12.
+
+* [OP.GG](https://op.gg)
+  - Mobile Cell Lead & Global Community Cell Lead (겸업)
   - iOS Developer
-  - 기간: 2017. 11. ~ 재직중
+  - 기간: 2017. 11. - 2022. 03.
   
 * General Factory (창업)
   - iOS Developer
   - 기간: 2016. 04. - 2017. 11.
   
-* [Pikicast](https://pikicast.com/) (그린 몬스터 소속)
+* [Pikicast](https://pikicast.com) (그린 몬스터 소속)
   - iOS Developer
   - 기간: 2015. 09. - 2016. 02.
   
-* [말랑 스튜디오](https://www.malangstudio.com/) (그린 몬스터 소속)
+* [말랑 스튜디오](https://www.malangstudio.com) (그린 몬스터 소속)
   - iOS Developer
   - 기간: 2015. 06. - 2016. 09.
 
@@ -64,8 +75,10 @@
 #### Swift
 #### Objective-C
 #### Java
+#### Python
 #### Kotlin
 #### PHP
+#### Figma
 #### Photoshop
 #### Illustrator
 
@@ -81,3 +94,4 @@
 ## 기타
 
 - 시바견을 키우고 있습니다.
+- 골프 티칭 프로 자격증을 가지고 있습니다.
